@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1029.6046,
+    "videos": [
         "Stink Finger-lD1mkVEczvk.mp4",
         "Los Invasores de Nuevo León - Ya No He Llorado Por Ti ( Audio Oficial )-f1hRD7I1tJE.mp4",
         "Conjunto Primavera - Perdoname Mi Amor-9uExV7uKun0.mp4",
@@ -95,7 +96,5 @@
         "Lele Pons feat. Susan Díaz & Victor Cardenas - Volar (Official Music Video)-qBxny_naiC0.mp4",
         "Los Invasores De Nuevo Leon Alfredo Rios Galeana-Gj1GQfDK9TA.mp4",
         "'EL DINERO' - PESADO-7lOLP1bLE_w.mp4"
-    ],
-    "id": "x",
-    "total_size": 981.907625
+    ]
 }
