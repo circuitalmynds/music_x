@@ -1,5 +1,5 @@
 {
-    "available_space": true,
+    "available_space": false,
     "files": [
         {
             "name": "Stink Finger-lD1mkVEczvk.mp4",
@@ -115,6 +115,11 @@
             "name": "Manu Chao - Por Donde Saldra El Sol (Live)-XvTJs2RPMGQ.mp4",
             "path": "music_x/videos/Manu Chao - Por Donde Saldra El Sol (Live)-XvTJs2RPMGQ.mp4",
             "size": 6.73260032
+        },
+        {
+            "name": "The Chemical Brothers - Wide Open ft Beck [8D AUDIO]-3iPZdvDGJdg.mp4",
+            "path": "music_x/videos/The Chemical Brothers - Wide Open ft Beck [8D AUDIO]-3iPZdvDGJdg.mp4",
+            "size": 23.265327104
         },
         {
             "name": "Corazón De Oro-2u-woC120gk.mp4",
@@ -457,5 +462,5 @@
             "size": 3.838414848
         }
     ],
-    "total_size": 942.9343508480001
+    "total_size": 966.1996779520001
 }
