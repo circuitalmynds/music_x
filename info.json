@@ -1,466 +1,559 @@
 {
     "available_space": false,
-    "files": [
+    "content": [
         {
             "name": "Chicago - Stay The Night (Official Music Video)-5LTWwkBNilI.mp4",
-            "path": "music_x/videos/Chicago - Stay The Night (Official Music Video)-5LTWwkBNilI.mp4",
-            "size": 45.428737024
+            "path": "x/videos/Chicago - Stay The Night (Official Music Video)-5LTWwkBNilI.mp4",
+            "size": 45.428737024,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Chicago - Stay The Night (Official Music Video)-5LTWwkBNilI.mp4?raw=true"
         },
         {
             "name": "Cryptopsy- Cold Hate, Warm Blood-xsDhH_duDHA.mp4",
-            "path": "music_x/videos/Cryptopsy- Cold Hate, Warm Blood-xsDhH_duDHA.mp4",
-            "size": 7.274714112000001
+            "path": "x/videos/Cryptopsy- Cold Hate, Warm Blood-xsDhH_duDHA.mp4",
+            "size": 7.274714112000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Cryptopsy- Cold Hate, Warm Blood-xsDhH_duDHA.mp4?raw=true"
         },
         {
             "name": "Pulp - Common People (Official Video)-yuTMWgOduFM.mp4",
-            "path": "music_x/videos/Pulp - Common People (Official Video)-yuTMWgOduFM.mp4",
-            "size": 19.907848192000003
+            "path": "x/videos/Pulp - Common People (Official Video)-yuTMWgOduFM.mp4",
+            "size": 19.907848192000003,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Pulp - Common People (Official Video)-yuTMWgOduFM.mp4?raw=true"
         },
         {
             "name": "Los Invasores De Nuevo Leon  Jesus Martinez-4UIUTBREIo4.mp4",
-            "path": "music_x/videos/Los Invasores De Nuevo Leon  Jesus Martinez-4UIUTBREIo4.mp4",
-            "size": 4.062266368
+            "path": "x/videos/Los Invasores De Nuevo Leon  Jesus Martinez-4UIUTBREIo4.mp4",
+            "size": 4.062266368,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los Invasores De Nuevo Leon  Jesus Martinez-4UIUTBREIo4.mp4?raw=true"
         },
         {
             "name": "Lester Young with Oscar Peterson Quartet - Ad Lib Blues-fPHj9uNZOgk.mp4",
-            "path": "music_x/videos/Lester Young with Oscar Peterson Quartet - Ad Lib Blues-fPHj9uNZOgk.mp4",
-            "size": 12.879049728
+            "path": "x/videos/Lester Young with Oscar Peterson Quartet - Ad Lib Blues-fPHj9uNZOgk.mp4",
+            "size": 12.879049728,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Lester Young with Oscar Peterson Quartet - Ad Lib Blues-fPHj9uNZOgk.mp4?raw=true"
         },
         {
             "name": "Christian Nodal - Te Voy A Olvidar (Video Oficial)-lC0-2XGASGg.mp4",
-            "path": "music_x/videos/Christian Nodal - Te Voy A Olvidar (Video Oficial)-lC0-2XGASGg.mp4",
-            "size": 9.273571328000001
+            "path": "x/videos/Christian Nodal - Te Voy A Olvidar (Video Oficial)-lC0-2XGASGg.mp4",
+            "size": 9.273571328000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Christian Nodal - Te Voy A Olvidar (Video Oficial)-lC0-2XGASGg.mp4?raw=true"
         },
         {
             "name": "Tchaikovsky - Valse Sentimentale-rUuusqy50yk.mp4",
-            "path": "music_x/videos/Tchaikovsky - Valse Sentimentale-rUuusqy50yk.mp4",
-            "size": 5.106013184
+            "path": "x/videos/Tchaikovsky - Valse Sentimentale-rUuusqy50yk.mp4",
+            "size": 5.106013184,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Tchaikovsky - Valse Sentimentale-rUuusqy50yk.mp4?raw=true"
         },
         {
             "name": "Siniestro Total. Hey Hey Vigo-FqDTitxYqVo.mp4",
-            "path": "music_x/videos/Siniestro Total. Hey Hey Vigo-FqDTitxYqVo.mp4",
-            "size": 5.954239488000001
+            "path": "x/videos/Siniestro Total. Hey Hey Vigo-FqDTitxYqVo.mp4",
+            "size": 5.954239488000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Siniestro Total. Hey Hey Vigo-FqDTitxYqVo.mp4?raw=true"
         },
         {
             "name": "Los Invasores De Nuevo Leon Alfredo Rios Galeana-Gj1GQfDK9TA.mp4",
-            "path": "music_x/videos/Los Invasores De Nuevo Leon Alfredo Rios Galeana-Gj1GQfDK9TA.mp4",
-            "size": 4.588565504
+            "path": "x/videos/Los Invasores De Nuevo Leon Alfredo Rios Galeana-Gj1GQfDK9TA.mp4",
+            "size": 4.588565504,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los Invasores De Nuevo Leon Alfredo Rios Galeana-Gj1GQfDK9TA.mp4?raw=true"
         },
         {
             "name": "Contigo Aprendí - Luis Miguel-i9Jb0ce1bUs.mp4",
-            "path": "music_x/videos/Contigo Aprendí - Luis Miguel-i9Jb0ce1bUs.mp4",
-            "size": 5.82614528
+            "path": "x/videos/Contigo Aprendí - Luis Miguel-i9Jb0ce1bUs.mp4",
+            "size": 5.82614528,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Contigo Aprendí - Luis Miguel-i9Jb0ce1bUs.mp4?raw=true"
         },
         {
             "name": "LOS CADETES DE LINARES _ RECORDANDO A MI PADRE-sXm7C99nxkU.mp4",
-            "path": "music_x/videos/LOS CADETES DE LINARES _ RECORDANDO A MI PADRE-sXm7C99nxkU.mp4",
-            "size": 4.050555904
+            "path": "x/videos/LOS CADETES DE LINARES _ RECORDANDO A MI PADRE-sXm7C99nxkU.mp4",
+            "size": 4.050555904,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/LOS CADETES DE LINARES _ RECORDANDO A MI PADRE-sXm7C99nxkU.mp4?raw=true"
         },
         {
             "name": "Manu Chao - Por Donde Saldra El Sol (Live)-XvTJs2RPMGQ.mp4",
-            "path": "music_x/videos/Manu Chao - Por Donde Saldra El Sol (Live)-XvTJs2RPMGQ.mp4",
-            "size": 6.73260032
+            "path": "x/videos/Manu Chao - Por Donde Saldra El Sol (Live)-XvTJs2RPMGQ.mp4",
+            "size": 6.73260032,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Manu Chao - Por Donde Saldra El Sol (Live)-XvTJs2RPMGQ.mp4?raw=true"
         },
         {
             "name": "El General - Te Ves Buena-uudfUdQbhME.mp4",
-            "path": "music_x/videos/El General - Te Ves Buena-uudfUdQbhME.mp4",
-            "size": 5.628187648
+            "path": "x/videos/El General - Te Ves Buena-uudfUdQbhME.mp4",
+            "size": 5.628187648,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/El General - Te Ves Buena-uudfUdQbhME.mp4?raw=true"
         },
         {
             "name": "La Arrolladora Banda El Limón De René Camacho - Mañana En Tu Olvido (Lyric Video)-wlQyTatFgqA.mp4",
-            "path": "music_x/videos/La Arrolladora Banda El Limón De René Camacho - Mañana En Tu Olvido (Lyric Video)-wlQyTatFgqA.mp4",
-            "size": 6.219899904
+            "path": "x/videos/La Arrolladora Banda El Limón De René Camacho - Mañana En Tu Olvido (Lyric Video)-wlQyTatFgqA.mp4",
+            "size": 6.219899904,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/La Arrolladora Banda El Limón De René Camacho - Mañana En Tu Olvido (Lyric Video)-wlQyTatFgqA.mp4?raw=true"
         },
         {
             "name": "Cream Crossroads-PE9HvSdcaL4.mp4",
-            "path": "music_x/videos/Cream Crossroads-PE9HvSdcaL4.mp4",
-            "size": 10.363650048
+            "path": "x/videos/Cream Crossroads-PE9HvSdcaL4.mp4",
+            "size": 10.363650048,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Cream Crossroads-PE9HvSdcaL4.mp4?raw=true"
         },
         {
             "name": "Manu Chao Minha Galera-Ouw_ZaGWBpU.mp4",
-            "path": "music_x/videos/Manu Chao Minha Galera-Ouw_ZaGWBpU.mp4",
-            "size": 5.1006750720000005
+            "path": "x/videos/Manu Chao Minha Galera-Ouw_ZaGWBpU.mp4",
+            "size": 5.1006750720000005,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Manu Chao Minha Galera-Ouw_ZaGWBpU.mp4?raw=true"
         },
         {
             "name": "Coldplay - The Hardest Part (Official Video)-WAGbq3A9HfA.mp4",
-            "path": "music_x/videos/Coldplay - The Hardest Part (Official Video)-WAGbq3A9HfA.mp4",
-            "size": 27.216594944
+            "path": "x/videos/Coldplay - The Hardest Part (Official Video)-WAGbq3A9HfA.mp4",
+            "size": 27.216594944,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Coldplay - The Hardest Part (Official Video)-WAGbq3A9HfA.mp4?raw=true"
         },
         {
             "name": "Carlos Vega Mi Flor De Naranjo-a_36WXKtJgk.mp4",
-            "path": "music_x/videos/Carlos Vega Mi Flor De Naranjo-a_36WXKtJgk.mp4",
-            "size": 4.825202688
+            "path": "x/videos/Carlos Vega Mi Flor De Naranjo-a_36WXKtJgk.mp4",
+            "size": 4.825202688,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Carlos Vega Mi Flor De Naranjo-a_36WXKtJgk.mp4?raw=true"
         },
         {
             "name": "Look at That Cadillac - Stray Cats-KmXQHAr-db4.mp4",
-            "path": "music_x/videos/Look at That Cadillac - Stray Cats-KmXQHAr-db4.mp4",
-            "size": 10.950639616
+            "path": "x/videos/Look at That Cadillac - Stray Cats-KmXQHAr-db4.mp4",
+            "size": 10.950639616,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Look at That Cadillac - Stray Cats-KmXQHAr-db4.mp4?raw=true"
         },
         {
             "name": "The Transplants - 'DJ'-I9lWfAemdNg.mp4",
-            "path": "music_x/videos/The Transplants - 'DJ'-I9lWfAemdNg.mp4",
-            "size": 21.377371136
+            "path": "x/videos/The Transplants - 'DJ'-I9lWfAemdNg.mp4",
+            "size": 21.377371136,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/The Transplants - 'DJ'-I9lWfAemdNg.mp4?raw=true"
         },
         {
             "name": "Calle 13 - Los De Atrás Vienen Conmigo (Audio)-SH1cVAIExeQ.mp4",
-            "path": "music_x/videos/Calle 13 - Los De Atrás Vienen Conmigo (Audio)-SH1cVAIExeQ.mp4",
-            "size": 8.324593664
+            "path": "x/videos/Calle 13 - Los De Atrás Vienen Conmigo (Audio)-SH1cVAIExeQ.mp4",
+            "size": 8.324593664,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Calle 13 - Los De Atrás Vienen Conmigo (Audio)-SH1cVAIExeQ.mp4?raw=true"
         },
         {
             "name": "The xx - Intro (Instrumental Original)-afSW9GJeYO8.mp4",
-            "path": "music_x/videos/The xx - Intro (Instrumental Original)-afSW9GJeYO8.mp4",
-            "size": 1.777189888
+            "path": "x/videos/The xx - Intro (Instrumental Original)-afSW9GJeYO8.mp4",
+            "size": 1.777189888,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/The xx - Intro (Instrumental Original)-afSW9GJeYO8.mp4?raw=true"
         },
         {
             "name": "Megamix Front 242 Jarre Kraftwerk Enya Delerium Art Of Noise Ivan Erasure Mo Do   Eins Zwei Mix L-wNQqAeYeWIQ.mp4",
-            "path": "music_x/videos/Megamix Front 242 Jarre Kraftwerk Enya Delerium Art Of Noise Ivan Erasure Mo Do   Eins Zwei Mix L-wNQqAeYeWIQ.mp4",
-            "size": 10.946617344
+            "path": "x/videos/Megamix Front 242 Jarre Kraftwerk Enya Delerium Art Of Noise Ivan Erasure Mo Do   Eins Zwei Mix L-wNQqAeYeWIQ.mp4",
+            "size": 10.946617344,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Megamix Front 242 Jarre Kraftwerk Enya Delerium Art Of Noise Ivan Erasure Mo Do   Eins Zwei Mix L-wNQqAeYeWIQ.mp4?raw=true"
         },
         {
             "name": "Coldplay - Strawberry Swing (Official Video)-h3pJZSTQqIg.mp4",
-            "path": "music_x/videos/Coldplay - Strawberry Swing (Official Video)-h3pJZSTQqIg.mp4",
-            "size": 17.899625472
+            "path": "x/videos/Coldplay - Strawberry Swing (Official Video)-h3pJZSTQqIg.mp4",
+            "size": 17.899625472,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Coldplay - Strawberry Swing (Official Video)-h3pJZSTQqIg.mp4?raw=true"
         },
         {
             "name": "Paté de Fuá - El Fantasma Enamorado-m-HWL8cNy6k.mp4",
-            "path": "music_x/videos/Paté de Fuá - El Fantasma Enamorado-m-HWL8cNy6k.mp4",
-            "size": 14.314566656
+            "path": "x/videos/Paté de Fuá - El Fantasma Enamorado-m-HWL8cNy6k.mp4",
+            "size": 14.314566656,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Paté de Fuá - El Fantasma Enamorado-m-HWL8cNy6k.mp4?raw=true"
         },
         {
             "name": "The Dead Weather - 'Will There Be Enough Water' - Live from The Roxy-1tndP407luk.mp4",
-            "path": "music_x/videos/The Dead Weather - 'Will There Be Enough Water' - Live from The Roxy-1tndP407luk.mp4",
-            "size": 37.870737408000004
+            "path": "x/videos/The Dead Weather - 'Will There Be Enough Water' - Live from The Roxy-1tndP407luk.mp4",
+            "size": 37.870737408000004,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/The Dead Weather - 'Will There Be Enough Water' - Live from The Roxy-1tndP407luk.mp4?raw=true"
         },
         {
             "name": "'EL DINERO' - PESADO-7lOLP1bLE_w.mp4",
-            "path": "music_x/videos/'EL DINERO' - PESADO-7lOLP1bLE_w.mp4",
-            "size": 9.286436864
+            "path": "x/videos/'EL DINERO' - PESADO-7lOLP1bLE_w.mp4",
+            "size": 9.286436864,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/'EL DINERO' - PESADO-7lOLP1bLE_w.mp4?raw=true"
         },
         {
             "name": "Carlos Vives, Ricky Martin - Canción Bonita (Official Video)-KIBeny5wq6M.mp4",
-            "path": "music_x/videos/Carlos Vives, Ricky Martin - Canción Bonita (Official Video)-KIBeny5wq6M.mp4",
-            "size": 16.167923712
+            "path": "x/videos/Carlos Vives, Ricky Martin - Canción Bonita (Official Video)-KIBeny5wq6M.mp4",
+            "size": 16.167923712,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Carlos Vives, Ricky Martin - Canción Bonita (Official Video)-KIBeny5wq6M.mp4?raw=true"
         },
         {
             "name": "Pobre De Mi Corazon-VJCGP1GaFcs.mp4",
-            "path": "music_x/videos/Pobre De Mi Corazon-VJCGP1GaFcs.mp4",
-            "size": 5.818698752
+            "path": "x/videos/Pobre De Mi Corazon-VJCGP1GaFcs.mp4",
+            "size": 5.818698752,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Pobre De Mi Corazon-VJCGP1GaFcs.mp4?raw=true"
         },
         {
             "name": "Cleanin' House ~ Goldie Hill (1957) (Country & Western)-4U0JkhUc7BQ.mp4",
-            "path": "music_x/videos/Cleanin' House ~ Goldie Hill (1957) (Country & Western)-4U0JkhUc7BQ.mp4",
-            "size": 5.6187904
+            "path": "x/videos/Cleanin' House ~ Goldie Hill (1957) (Country & Western)-4U0JkhUc7BQ.mp4",
+            "size": 5.6187904,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Cleanin' House ~ Goldie Hill (1957) (Country & Western)-4U0JkhUc7BQ.mp4?raw=true"
         },
         {
             "name": "Conjunto Primavera Tal Vez-CRMHHEPG1yE.mp4",
-            "path": "music_x/videos/Conjunto Primavera Tal Vez-CRMHHEPG1yE.mp4",
-            "size": 4.165470208
+            "path": "x/videos/Conjunto Primavera Tal Vez-CRMHHEPG1yE.mp4",
+            "size": 4.165470208,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Conjunto Primavera Tal Vez-CRMHHEPG1yE.mp4?raw=true"
         },
         {
             "name": "La Polla Records - Subete los pantalones (letra)-q7PAcUh56bg.mp4",
-            "path": "music_x/videos/La Polla Records - Subete los pantalones (letra)-q7PAcUh56bg.mp4",
-            "size": 5.681050624
+            "path": "x/videos/La Polla Records - Subete los pantalones (letra)-q7PAcUh56bg.mp4",
+            "size": 5.681050624,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/La Polla Records - Subete los pantalones (letra)-q7PAcUh56bg.mp4?raw=true"
         },
         {
             "name": "Los Cadetes de Linares - Una Pagina Mas-u59iFMeuMz8.mp4",
-            "path": "music_x/videos/Los Cadetes de Linares - Una Pagina Mas-u59iFMeuMz8.mp4",
-            "size": 7.848389632000001
+            "path": "x/videos/Los Cadetes de Linares - Una Pagina Mas-u59iFMeuMz8.mp4",
+            "size": 7.848389632000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los Cadetes de Linares - Una Pagina Mas-u59iFMeuMz8.mp4?raw=true"
         },
         {
             "name": "Corazón De Oro-2u-woC120gk.mp4",
-            "path": "music_x/videos/Corazón De Oro-2u-woC120gk.mp4",
-            "size": 7.835132928
+            "path": "x/videos/Corazón De Oro-2u-woC120gk.mp4",
+            "size": 7.835132928,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Corazón De Oro-2u-woC120gk.mp4?raw=true"
         },
         {
             "name": "Johnny Cash - Dark As A Dungeon-epCeMBDm3FU.mp4",
-            "path": "music_x/videos/Johnny Cash - Dark As A Dungeon-epCeMBDm3FU.mp4",
-            "size": 4.841609216
+            "path": "x/videos/Johnny Cash - Dark As A Dungeon-epCeMBDm3FU.mp4",
+            "size": 4.841609216,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Johnny Cash - Dark As A Dungeon-epCeMBDm3FU.mp4?raw=true"
         },
         {
             "name": "Creedence Clearwater Revival - Down On The Corner-clJb4zx0o1o.mp4",
-            "path": "music_x/videos/Creedence Clearwater Revival - Down On The Corner-clJb4zx0o1o.mp4",
-            "size": 4.484570112
+            "path": "x/videos/Creedence Clearwater Revival - Down On The Corner-clJb4zx0o1o.mp4",
+            "size": 4.484570112,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Creedence Clearwater Revival - Down On The Corner-clJb4zx0o1o.mp4?raw=true"
         },
         {
             "name": "Los Cadetes de Linares - Un Corazon Amargado-obCQyWfUQUg.mp4",
-            "path": "music_x/videos/Los Cadetes de Linares - Un Corazon Amargado-obCQyWfUQUg.mp4",
-            "size": 3.838414848
+            "path": "x/videos/Los Cadetes de Linares - Un Corazon Amargado-obCQyWfUQUg.mp4",
+            "size": 3.838414848,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los Cadetes de Linares - Un Corazon Amargado-obCQyWfUQUg.mp4?raw=true"
         },
         {
             "name": "Control Machete - 'Grin-Gosano'-X3qG5YOK8Ic.mp4",
-            "path": "music_x/videos/Control Machete - 'Grin-Gosano'-X3qG5YOK8Ic.mp4",
-            "size": 2.8313241600000003
+            "path": "x/videos/Control Machete - 'Grin-Gosano'-X3qG5YOK8Ic.mp4",
+            "size": 2.8313241600000003,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Control Machete - 'Grin-Gosano'-X3qG5YOK8Ic.mp4?raw=true"
         },
         {
             "name": "Toto - Hold The Line (Official Video)-htgr3pvBr-I.mp4",
-            "path": "music_x/videos/Toto - Hold The Line (Official Video)-htgr3pvBr-I.mp4",
-            "size": 14.979889152
+            "path": "x/videos/Toto - Hold The Line (Official Video)-htgr3pvBr-I.mp4",
+            "size": 14.979889152,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Toto - Hold The Line (Official Video)-htgr3pvBr-I.mp4?raw=true"
         },
         {
             "name": "Sinvergüenza y Roberto Iniesta - Levantando polvareda-tSJ9-R2RXko.mp4",
-            "path": "music_x/videos/Sinvergüenza y Roberto Iniesta - Levantando polvareda-tSJ9-R2RXko.mp4",
-            "size": 5.64627456
+            "path": "x/videos/Sinvergüenza y Roberto Iniesta - Levantando polvareda-tSJ9-R2RXko.mp4",
+            "size": 5.64627456,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Sinvergüenza y Roberto Iniesta - Levantando polvareda-tSJ9-R2RXko.mp4?raw=true"
         },
         {
             "name": "Los Invasores de Nuevo León - Ya No He Llorado Por Ti ( Audio Oficial )-f1hRD7I1tJE.mp4",
-            "path": "music_x/videos/Los Invasores de Nuevo León - Ya No He Llorado Por Ti ( Audio Oficial )-f1hRD7I1tJE.mp4",
-            "size": 7.554653184
+            "path": "x/videos/Los Invasores de Nuevo León - Ya No He Llorado Por Ti ( Audio Oficial )-f1hRD7I1tJE.mp4",
+            "size": 7.554653184,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los Invasores de Nuevo León - Ya No He Llorado Por Ti ( Audio Oficial )-f1hRD7I1tJE.mp4?raw=true"
         },
         {
             "name": "Skinhead,Suedehead Boots & Reggae-hx-XpRCGaFc.mp4",
-            "path": "music_x/videos/Skinhead,Suedehead Boots & Reggae-hx-XpRCGaFc.mp4",
-            "size": 33.163655168000005
+            "path": "x/videos/Skinhead,Suedehead Boots & Reggae-hx-XpRCGaFc.mp4",
+            "size": 33.163655168000005,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Skinhead,Suedehead Boots & Reggae-hx-XpRCGaFc.mp4?raw=true"
         },
         {
             "name": "Estando Yo Contigo-Lbc-4GT4Onw.mp4",
-            "path": "music_x/videos/Estando Yo Contigo-Lbc-4GT4Onw.mp4",
-            "size": 5.04086528
+            "path": "x/videos/Estando Yo Contigo-Lbc-4GT4Onw.mp4",
+            "size": 5.04086528,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Estando Yo Contigo-Lbc-4GT4Onw.mp4?raw=true"
         },
         {
             "name": "LOS DE MARRAS 'Hoy' (Videoclip)-Iu1bKskocNQ.mp4",
-            "path": "music_x/videos/LOS DE MARRAS 'Hoy' (Videoclip)-Iu1bKskocNQ.mp4",
-            "size": 18.664993792
+            "path": "x/videos/LOS DE MARRAS 'Hoy' (Videoclip)-Iu1bKskocNQ.mp4",
+            "size": 18.664993792,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/LOS DE MARRAS 'Hoy' (Videoclip)-Iu1bKskocNQ.mp4?raw=true"
         },
         {
             "name": "The Bucketheads - The Bomb [These Sounds Fall Into My Mind] (Official Video)-no1vf854aUc.mp4",
-            "path": "music_x/videos/The Bucketheads - The Bomb [These Sounds Fall Into My Mind] (Official Video)-no1vf854aUc.mp4",
-            "size": 19.055710208
+            "path": "x/videos/The Bucketheads - The Bomb [These Sounds Fall Into My Mind] (Official Video)-no1vf854aUc.mp4",
+            "size": 19.055710208,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/The Bucketheads - The Bomb [These Sounds Fall Into My Mind] (Official Video)-no1vf854aUc.mp4?raw=true"
         },
         {
             "name": "David Bowie - 'We Are Hungry Men' - 1967-FuYSZqjmkz4.mp4",
-            "path": "music_x/videos/David Bowie - 'We Are Hungry Men' - 1967-FuYSZqjmkz4.mp4",
-            "size": 3.5776962560000003
+            "path": "x/videos/David Bowie - 'We Are Hungry Men' - 1967-FuYSZqjmkz4.mp4",
+            "size": 3.5776962560000003,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/David Bowie - 'We Are Hungry Men' - 1967-FuYSZqjmkz4.mp4?raw=true"
         },
         {
             "name": "En tu agujero-I61WpWgzgF0.mp4",
-            "path": "music_x/videos/En tu agujero-I61WpWgzgF0.mp4",
-            "size": 8.028846080000001
+            "path": "x/videos/En tu agujero-I61WpWgzgF0.mp4",
+            "size": 8.028846080000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/En tu agujero-I61WpWgzgF0.mp4?raw=true"
         },
         {
             "name": "Control machete El genio del Dub-JfH_TbBQDbI.mp4",
-            "path": "music_x/videos/Control machete El genio del Dub-JfH_TbBQDbI.mp4",
-            "size": 15.350632448
+            "path": "x/videos/Control machete El genio del Dub-JfH_TbBQDbI.mp4",
+            "size": 15.350632448,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Control machete El genio del Dub-JfH_TbBQDbI.mp4?raw=true"
         },
         {
             "name": "Ximena Sariñana - Una Vez Más (Video Oficial)-0AwjqekXElk.mp4",
-            "path": "music_x/videos/Ximena Sariñana - Una Vez Más (Video Oficial)-0AwjqekXElk.mp4",
-            "size": 16.446833664
+            "path": "x/videos/Ximena Sariñana - Una Vez Más (Video Oficial)-0AwjqekXElk.mp4",
+            "size": 16.446833664,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Ximena Sariñana - Una Vez Más (Video Oficial)-0AwjqekXElk.mp4?raw=true"
         },
         {
             "name": "Sean Paul - Dutty Rock Intro [DUTTY ROCK]-lbKVK0mJX3Q.mp4",
-            "path": "music_x/videos/Sean Paul - Dutty Rock Intro [DUTTY ROCK]-lbKVK0mJX3Q.mp4",
-            "size": 12.35699712
+            "path": "x/videos/Sean Paul - Dutty Rock Intro [DUTTY ROCK]-lbKVK0mJX3Q.mp4",
+            "size": 12.35699712,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Sean Paul - Dutty Rock Intro [DUTTY ROCK]-lbKVK0mJX3Q.mp4?raw=true"
         },
         {
             "name": "Ciudadano terrorista-AkCL4zuh98E.mp4",
-            "path": "music_x/videos/Ciudadano terrorista-AkCL4zuh98E.mp4",
-            "size": 6.32283136
+            "path": "x/videos/Ciudadano terrorista-AkCL4zuh98E.mp4",
+            "size": 6.32283136,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Ciudadano terrorista-AkCL4zuh98E.mp4?raw=true"
         },
         {
             "name": "Alejandro Fernández - Hoy Tengo Ganas De Ti ft. Christina Aguilera (Video Oficial)-Z81hsLIY1sQ.mp4",
-            "path": "music_x/videos/Alejandro Fernández - Hoy Tengo Ganas De Ti ft. Christina Aguilera (Video Oficial)-Z81hsLIY1sQ.mp4",
-            "size": 17.366176768000003
+            "path": "x/videos/Alejandro Fernández - Hoy Tengo Ganas De Ti ft. Christina Aguilera (Video Oficial)-Z81hsLIY1sQ.mp4",
+            "size": 17.366176768000003,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Alejandro Fernández - Hoy Tengo Ganas De Ti ft. Christina Aguilera (Video Oficial)-Z81hsLIY1sQ.mp4?raw=true"
         },
         {
             "name": "The Jam - The Eton Rifles-C7kUDkK70qQ.mp4",
-            "path": "music_x/videos/The Jam - The Eton Rifles-C7kUDkK70qQ.mp4",
-            "size": 14.910824448000001
+            "path": "x/videos/The Jam - The Eton Rifles-C7kUDkK70qQ.mp4",
+            "size": 14.910824448000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/The Jam - The Eton Rifles-C7kUDkK70qQ.mp4?raw=true"
         },
         {
             "name": "Pesado - Mundo de Amor (Video Oficial)-iMEHgTVz_fw.mp4",
-            "path": "music_x/videos/Pesado - Mundo de Amor (Video Oficial)-iMEHgTVz_fw.mp4",
-            "size": 10.451926016
+            "path": "x/videos/Pesado - Mundo de Amor (Video Oficial)-iMEHgTVz_fw.mp4",
+            "size": 10.451926016,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Pesado - Mundo de Amor (Video Oficial)-iMEHgTVz_fw.mp4?raw=true"
         },
         {
             "name": "Contento de Ser Así-HJmJyqs3N4Y.mp4",
-            "path": "music_x/videos/Contento de Ser Así-HJmJyqs3N4Y.mp4",
-            "size": 6.776643584
+            "path": "x/videos/Contento de Ser Así-HJmJyqs3N4Y.mp4",
+            "size": 6.776643584,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Contento de Ser Así-HJmJyqs3N4Y.mp4?raw=true"
         },
         {
             "name": "CHUY LIZARRAGA - LA BUCHONA con letra-2u_pEd4_2cI.mp4",
-            "path": "music_x/videos/CHUY LIZARRAGA - LA BUCHONA con letra-2u_pEd4_2cI.mp4",
-            "size": 6.577805312000001
+            "path": "x/videos/CHUY LIZARRAGA - LA BUCHONA con letra-2u_pEd4_2cI.mp4",
+            "size": 6.577805312000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/CHUY LIZARRAGA - LA BUCHONA con letra-2u_pEd4_2cI.mp4?raw=true"
         },
         {
             "name": "Pesado - Quiero Que Sepas (Live At Nuevo León México _ 2009)-1gbHw4As3uw.mp4",
-            "path": "music_x/videos/Pesado - Quiero Que Sepas (Live At Nuevo León México _ 2009)-1gbHw4As3uw.mp4",
-            "size": 14.368400384000001
+            "path": "x/videos/Pesado - Quiero Que Sepas (Live At Nuevo León México _ 2009)-1gbHw4As3uw.mp4",
+            "size": 14.368400384000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Pesado - Quiero Que Sepas (Live At Nuevo León México _ 2009)-1gbHw4As3uw.mp4?raw=true"
         },
         {
             "name": "Te Quiero Con La Vida - Conjunto Primavera-XqS73Etj9jE.mp4",
-            "path": "music_x/videos/Te Quiero Con La Vida - Conjunto Primavera-XqS73Etj9jE.mp4",
-            "size": 7.6035706880000005
+            "path": "x/videos/Te Quiero Con La Vida - Conjunto Primavera-XqS73Etj9jE.mp4",
+            "size": 7.6035706880000005,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Te Quiero Con La Vida - Conjunto Primavera-XqS73Etj9jE.mp4?raw=true"
         },
         {
             "name": "Leonardo Favio - Mi Tristeza Es Mía y Nada Más-_9SnM6rJccs.mp4",
-            "path": "music_x/videos/Leonardo Favio - Mi Tristeza Es Mía y Nada Más-_9SnM6rJccs.mp4",
-            "size": 2.352370688
+            "path": "x/videos/Leonardo Favio - Mi Tristeza Es Mía y Nada Más-_9SnM6rJccs.mp4",
+            "size": 2.352370688,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Leonardo Favio - Mi Tristeza Es Mía y Nada Más-_9SnM6rJccs.mp4?raw=true"
         },
         {
             "name": "Lele Pons feat. Susan Díaz & Victor Cardenas - Volar (Official Music Video)-qBxny_naiC0.mp4",
-            "path": "music_x/videos/Lele Pons feat. Susan Díaz & Victor Cardenas - Volar (Official Music Video)-qBxny_naiC0.mp4",
-            "size": 18.222844928
+            "path": "x/videos/Lele Pons feat. Susan Díaz & Victor Cardenas - Volar (Official Music Video)-qBxny_naiC0.mp4",
+            "size": 18.222844928,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Lele Pons feat. Susan Díaz & Victor Cardenas - Volar (Official Music Video)-qBxny_naiC0.mp4?raw=true"
         },
         {
             "name": "EUROPE - Cherokee (1987)-LMONTXnBYvk.mp4",
-            "path": "music_x/videos/EUROPE - Cherokee (1987)-LMONTXnBYvk.mp4",
-            "size": 15.56535296
+            "path": "x/videos/EUROPE - Cherokee (1987)-LMONTXnBYvk.mp4",
+            "size": 15.56535296,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/EUROPE - Cherokee (1987)-LMONTXnBYvk.mp4?raw=true"
         },
         {
             "name": "Planetary Duality II - A Prophecies Fruition-ECkrqZLNUjA.mp4",
-            "path": "music_x/videos/Planetary Duality II - A Prophecies Fruition-ECkrqZLNUjA.mp4",
-            "size": 13.877639168000002
+            "path": "x/videos/Planetary Duality II - A Prophecies Fruition-ECkrqZLNUjA.mp4",
+            "size": 13.877639168000002,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Planetary Duality II - A Prophecies Fruition-ECkrqZLNUjA.mp4?raw=true"
         },
         {
             "name": "Los Cadetes de Linares - El Caballo Jovero-42UJzANIE0E.mp4",
-            "path": "music_x/videos/Los Cadetes de Linares - El Caballo Jovero-42UJzANIE0E.mp4",
-            "size": 5.855568896
+            "path": "x/videos/Los Cadetes de Linares - El Caballo Jovero-42UJzANIE0E.mp4",
+            "size": 5.855568896,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los Cadetes de Linares - El Caballo Jovero-42UJzANIE0E.mp4?raw=true"
         },
         {
             "name": "Jim James, Teddy Abrams, Louisville Orchestra - Back To The End Of The World (Visualizer)-OUfnkKBuB0A.mp4",
-            "path": "music_x/videos/Jim James, Teddy Abrams, Louisville Orchestra - Back To The End Of The World (Visualizer)-OUfnkKBuB0A.mp4",
-            "size": 7.27132672
+            "path": "x/videos/Jim James, Teddy Abrams, Louisville Orchestra - Back To The End Of The World (Visualizer)-OUfnkKBuB0A.mp4",
+            "size": 7.27132672,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Jim James, Teddy Abrams, Louisville Orchestra - Back To The End Of The World (Visualizer)-OUfnkKBuB0A.mp4?raw=true"
         },
         {
             "name": "Looking at the Invisible Man-qhIAVqdhK8E.mp4",
-            "path": "music_x/videos/Looking at the Invisible Man-qhIAVqdhK8E.mp4",
-            "size": 4.294647808000001
+            "path": "x/videos/Looking at the Invisible Man-qhIAVqdhK8E.mp4",
+            "size": 4.294647808000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Looking at the Invisible Man-qhIAVqdhK8E.mp4?raw=true"
         },
         {
             "name": "Echo and the bunnymen - Villiers terrace-TZJdbTkC22Q.mp4",
-            "path": "music_x/videos/Echo and the bunnymen - Villiers terrace-TZJdbTkC22Q.mp4",
-            "size": 6.815372288000001
+            "path": "x/videos/Echo and the bunnymen - Villiers terrace-TZJdbTkC22Q.mp4",
+            "size": 6.815372288000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Echo and the bunnymen - Villiers terrace-TZJdbTkC22Q.mp4?raw=true"
         },
         {
             "name": "Maldita Vecindad y los Hijos del 5to Patio - Un Gran Circo-59u2p0HdwpA.mp4",
-            "path": "music_x/videos/Maldita Vecindad y los Hijos del 5to Patio - Un Gran Circo-59u2p0HdwpA.mp4",
-            "size": 23.358848000000002
+            "path": "x/videos/Maldita Vecindad y los Hijos del 5to Patio - Un Gran Circo-59u2p0HdwpA.mp4",
+            "size": 23.358848000000002,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Maldita Vecindad y los Hijos del 5to Patio - Un Gran Circo-59u2p0HdwpA.mp4?raw=true"
         },
         {
             "name": "Conjunto Primavera - Perdoname Mi Amor-9uExV7uKun0.mp4",
-            "path": "music_x/videos/Conjunto Primavera - Perdoname Mi Amor-9uExV7uKun0.mp4",
-            "size": 20.716148736
+            "path": "x/videos/Conjunto Primavera - Perdoname Mi Amor-9uExV7uKun0.mp4",
+            "size": 20.716148736,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Conjunto Primavera - Perdoname Mi Amor-9uExV7uKun0.mp4?raw=true"
         },
         {
             "name": "Los Invasores De Nuevo Leon La Mujer De Demetrio-OjWBQcq9S44.mp4",
-            "path": "music_x/videos/Los Invasores De Nuevo Leon La Mujer De Demetrio-OjWBQcq9S44.mp4",
-            "size": 3.050253312
+            "path": "x/videos/Los Invasores De Nuevo Leon La Mujer De Demetrio-OjWBQcq9S44.mp4",
+            "size": 3.050253312,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los Invasores De Nuevo Leon La Mujer De Demetrio-OjWBQcq9S44.mp4?raw=true"
         },
         {
             "name": "Luke Bryan- Country Girl (Shake It For Me) Lyrics-rLQajZ5zKWY.mp4",
-            "path": "music_x/videos/Luke Bryan- Country Girl (Shake It For Me) Lyrics-rLQajZ5zKWY.mp4",
-            "size": 9.608440832000001
+            "path": "x/videos/Luke Bryan- Country Girl (Shake It For Me) Lyrics-rLQajZ5zKWY.mp4",
+            "size": 9.608440832000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Luke Bryan- Country Girl (Shake It For Me) Lyrics-rLQajZ5zKWY.mp4?raw=true"
         },
         {
             "name": "Capitalismo Caníbal - Skalariak-B_zFatTIF3o.mp4",
-            "path": "music_x/videos/Capitalismo Caníbal - Skalariak-B_zFatTIF3o.mp4",
-            "size": 4.066195456
+            "path": "x/videos/Capitalismo Caníbal - Skalariak-B_zFatTIF3o.mp4",
+            "size": 4.066195456,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Capitalismo Caníbal - Skalariak-B_zFatTIF3o.mp4?raw=true"
         },
         {
             "name": "los cadetes de linares-ventura ramos-fMGOxQ_Vhlo.mp4",
-            "path": "music_x/videos/los cadetes de linares-ventura ramos-fMGOxQ_Vhlo.mp4",
-            "size": 7.226440704000001
+            "path": "x/videos/los cadetes de linares-ventura ramos-fMGOxQ_Vhlo.mp4",
+            "size": 7.226440704000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/los cadetes de linares-ventura ramos-fMGOxQ_Vhlo.mp4?raw=true"
         },
         {
             "name": "The Cure - Charlotte Sometimes-4KeII31qyck.mp4",
-            "path": "music_x/videos/The Cure - Charlotte Sometimes-4KeII31qyck.mp4",
-            "size": 14.264657920000001
+            "path": "x/videos/The Cure - Charlotte Sometimes-4KeII31qyck.mp4",
+            "size": 14.264657920000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/The Cure - Charlotte Sometimes-4KeII31qyck.mp4?raw=true"
         },
         {
             "name": "Stray Cats - Baby Blue Eyes-j2tvYqrHIvY.mp4",
-            "path": "music_x/videos/Stray Cats - Baby Blue Eyes-j2tvYqrHIvY.mp4",
-            "size": 3.152847872
+            "path": "x/videos/Stray Cats - Baby Blue Eyes-j2tvYqrHIvY.mp4",
+            "size": 3.152847872,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Stray Cats - Baby Blue Eyes-j2tvYqrHIvY.mp4?raw=true"
         },
         {
             "name": "The Chemical Brothers - Wide Open ft Beck [8D AUDIO]-3iPZdvDGJdg.mp4",
-            "path": "music_x/videos/The Chemical Brothers - Wide Open ft Beck [8D AUDIO]-3iPZdvDGJdg.mp4",
-            "size": 23.265327104
+            "path": "x/videos/The Chemical Brothers - Wide Open ft Beck [8D AUDIO]-3iPZdvDGJdg.mp4",
+            "size": 23.265327104,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/The Chemical Brothers - Wide Open ft Beck [8D AUDIO]-3iPZdvDGJdg.mp4?raw=true"
         },
         {
             "name": "Sister Rosetta Tharpe -- my journey to the sky-AaGRQiiBQcw.mp4",
-            "path": "music_x/videos/Sister Rosetta Tharpe -- my journey to the sky-AaGRQiiBQcw.mp4",
-            "size": 6.288852992000001
+            "path": "x/videos/Sister Rosetta Tharpe -- my journey to the sky-AaGRQiiBQcw.mp4",
+            "size": 6.288852992000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Sister Rosetta Tharpe -- my journey to the sky-AaGRQiiBQcw.mp4?raw=true"
         },
         {
             "name": "The Cure (extended) To The Sky-zRy09dnCUU4.mp4",
-            "path": "music_x/videos/The Cure (extended) To The Sky-zRy09dnCUU4.mp4",
-            "size": 24.297183232000002
+            "path": "x/videos/The Cure (extended) To The Sky-zRy09dnCUU4.mp4",
+            "size": 24.297183232000002,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/The Cure (extended) To The Sky-zRy09dnCUU4.mp4?raw=true"
         },
         {
             "name": "Las Rejas No Matan-1h9T-ZsR60I.mp4",
-            "path": "music_x/videos/Las Rejas No Matan-1h9T-ZsR60I.mp4",
-            "size": 7.424264192000001
+            "path": "x/videos/Las Rejas No Matan-1h9T-ZsR60I.mp4",
+            "size": 7.424264192000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Las Rejas No Matan-1h9T-ZsR60I.mp4?raw=true"
         },
         {
             "name": "Stink Finger-lD1mkVEczvk.mp4",
-            "path": "music_x/videos/Stink Finger-lD1mkVEczvk.mp4",
-            "size": 8.397006848
+            "path": "x/videos/Stink Finger-lD1mkVEczvk.mp4",
+            "size": 8.397006848,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Stink Finger-lD1mkVEczvk.mp4?raw=true"
         },
         {
             "name": "te amo joan sebastian (letra)-5RR9sRMhuwE.mp4",
-            "path": "music_x/videos/te amo joan sebastian (letra)-5RR9sRMhuwE.mp4",
-            "size": 5.154675712
+            "path": "x/videos/te amo joan sebastian (letra)-5RR9sRMhuwE.mp4",
+            "size": 5.154675712,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/te amo joan sebastian (letra)-5RR9sRMhuwE.mp4?raw=true"
         },
         {
             "name": "The Doors - Light My Fire-cq8k-ZbsXDI.mp4",
-            "path": "music_x/videos/The Doors - Light My Fire-cq8k-ZbsXDI.mp4",
-            "size": 11.910902784000001
+            "path": "x/videos/The Doors - Light My Fire-cq8k-ZbsXDI.mp4",
+            "size": 11.910902784000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/The Doors - Light My Fire-cq8k-ZbsXDI.mp4?raw=true"
         },
         {
             "name": "Creedence Clearwater Revival - Good Golly Miss Molly-AlP-PXnwM3w.mp4",
-            "path": "music_x/videos/Creedence Clearwater Revival - Good Golly Miss Molly-AlP-PXnwM3w.mp4",
-            "size": 4.365727744
+            "path": "x/videos/Creedence Clearwater Revival - Good Golly Miss Molly-AlP-PXnwM3w.mp4",
+            "size": 4.365727744,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Creedence Clearwater Revival - Good Golly Miss Molly-AlP-PXnwM3w.mp4?raw=true"
         },
         {
             "name": "Paco de Lucia - Entre dos aguas (1976) full video-2oyhlad64-s.mp4",
-            "path": "music_x/videos/Paco de Lucia - Entre dos aguas (1976) full video-2oyhlad64-s.mp4",
-            "size": 18.1969664
+            "path": "x/videos/Paco de Lucia - Entre dos aguas (1976) full video-2oyhlad64-s.mp4",
+            "size": 18.1969664,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Paco de Lucia - Entre dos aguas (1976) full video-2oyhlad64-s.mp4?raw=true"
         },
         {
             "name": "Los muertos de cristo - Gástale una broma-TROb8U0_Njg.mp4",
-            "path": "music_x/videos/Los muertos de cristo - Gástale una broma-TROb8U0_Njg.mp4",
-            "size": 4.3851489280000004
+            "path": "x/videos/Los muertos de cristo - Gástale una broma-TROb8U0_Njg.mp4",
+            "size": 4.3851489280000004,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los muertos de cristo - Gástale una broma-TROb8U0_Njg.mp4?raw=true"
         },
         {
             "name": "Tender Object-bLARuffOWXU.mp4",
-            "path": "music_x/videos/Tender Object-bLARuffOWXU.mp4",
-            "size": 4.999410688
+            "path": "x/videos/Tender Object-bLARuffOWXU.mp4",
+            "size": 4.999410688,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Tender Object-bLARuffOWXU.mp4?raw=true"
         },
         {
             "name": "Los Cadetes de Linares - Arturo Garza Trevino-tJXtSKNgRBQ.mp4",
-            "path": "music_x/videos/Los Cadetes de Linares - Arturo Garza Trevino-tJXtSKNgRBQ.mp4",
-            "size": 4.8489420800000005
+            "path": "x/videos/Los Cadetes de Linares - Arturo Garza Trevino-tJXtSKNgRBQ.mp4",
+            "size": 4.8489420800000005,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los Cadetes de Linares - Arturo Garza Trevino-tJXtSKNgRBQ.mp4?raw=true"
         },
         {
             "name": "Joan Sebastian   Recuerdame bonito-9qf5ISlrXEA.mp4",
-            "path": "music_x/videos/Joan Sebastian   Recuerdame bonito-9qf5ISlrXEA.mp4",
-            "size": 6.9092198400000004
+            "path": "x/videos/Joan Sebastian   Recuerdame bonito-9qf5ISlrXEA.mp4",
+            "size": 6.9092198400000004,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Joan Sebastian   Recuerdame bonito-9qf5ISlrXEA.mp4?raw=true"
         },
         {
             "name": "Sara Ruth ~ Mike Smith  (1959)-pMo2rleTOo4.mp4",
-            "path": "music_x/videos/Sara Ruth ~ Mike Smith  (1959)-pMo2rleTOo4.mp4",
-            "size": 8.950096896
+            "path": "x/videos/Sara Ruth ~ Mike Smith  (1959)-pMo2rleTOo4.mp4",
+            "size": 8.950096896,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Sara Ruth ~ Mike Smith  (1959)-pMo2rleTOo4.mp4?raw=true"
         },
         {
             "name": "Chuy Vega - Tenias Que Ser Tan Cruel-m8Wg17CSIQg.mp4",
-            "path": "music_x/videos/Chuy Vega - Tenias Que Ser Tan Cruel-m8Wg17CSIQg.mp4",
-            "size": 12.624505856
+            "path": "x/videos/Chuy Vega - Tenias Que Ser Tan Cruel-m8Wg17CSIQg.mp4",
+            "size": 12.624505856,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Chuy Vega - Tenias Que Ser Tan Cruel-m8Wg17CSIQg.mp4?raw=true"
         },
         {
             "name": "Los Cadetes de Linares - Sinceramente-aHAoZXyEfDo.mp4",
-            "path": "music_x/videos/Los Cadetes de Linares - Sinceramente-aHAoZXyEfDo.mp4",
-            "size": 4.918890496
+            "path": "x/videos/Los Cadetes de Linares - Sinceramente-aHAoZXyEfDo.mp4",
+            "size": 4.918890496,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los Cadetes de Linares - Sinceramente-aHAoZXyEfDo.mp4?raw=true"
         },
         {
             "name": "The Great Gig In The Sky-mPGv8L3a_sY.mp4",
-            "path": "music_x/videos/The Great Gig In The Sky-mPGv8L3a_sY.mp4",
-            "size": 5.399931904000001
+            "path": "x/videos/The Great Gig In The Sky-mPGv8L3a_sY.mp4",
+            "size": 5.399931904000001,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/The Great Gig In The Sky-mPGv8L3a_sY.mp4?raw=true"
         },
         {
             "name": "Charlie Rodd - Soñar Contigo [Letra]-QhAjVAwRP_k.mp4",
-            "path": "music_x/videos/Charlie Rodd - Soñar Contigo [Letra]-QhAjVAwRP_k.mp4",
-            "size": 7.60077312
+            "path": "x/videos/Charlie Rodd - Soñar Contigo [Letra]-QhAjVAwRP_k.mp4",
+            "size": 7.60077312,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Charlie Rodd - Soñar Contigo [Letra]-QhAjVAwRP_k.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 966.1996779520002
 }
