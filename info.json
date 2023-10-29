@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "AlP-PXnwM3w",
@@ -28,13 +28,6 @@
             "path": "/home/alanmatzumiya/Videos/container/x/videos/The Jam - The Eton Rifles-C7kUDkK70qQ.mp4",
             "size": 14.561352,
             "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/The Jam - The Eton Rifles-C7kUDkK70qQ.mp4?raw=true"
-        },
-        {
-            "id": "42UJzANIE0E",
-            "name": "Los Cadetes de Linares - El Caballo Jovero-42UJzANIE0E.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/x/videos/Los Cadetes de Linares - El Caballo Jovero-42UJzANIE0E.mp4",
-            "size": 5.718329,
-            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los Cadetes de Linares - El Caballo Jovero-42UJzANIE0E.mp4?raw=true"
         },
         {
             "id": "B_zFatTIF3o",
@@ -70,13 +63,6 @@
             "path": "/home/alanmatzumiya/Videos/container/x/videos/Toto - Hold The Line (Official Video)-htgr3pvBr-I.mp4",
             "size": 14.628798,
             "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Toto - Hold The Line (Official Video)-htgr3pvBr-I.mp4?raw=true"
-        },
-        {
-            "id": "sdwdmqXnm-k",
-            "name": "La Cruz - Memorias-sdwdmqXnm-k.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/x/videos/La Cruz - Memorias-sdwdmqXnm-k.mp4",
-            "size": 8.425865,
-            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/La Cruz - Memorias-sdwdmqXnm-k.mp4?raw=true"
         },
         {
             "id": "ECkrqZLNUjA",
@@ -142,13 +128,6 @@
             "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/LOS CADETES DE LINARES _ RECORDANDO A MI PADRE-sXm7C99nxkU.mp4?raw=true"
         },
         {
-            "id": "FIDTah3SvCU",
-            "name": "Dvořák - The Water Goblin-FIDTah3SvCU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/x/videos/Dvořák - The Water Goblin-FIDTah3SvCU.mp4",
-            "size": 56.261188,
-            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Dvořák - The Water Goblin-FIDTah3SvCU.mp4?raw=true"
-        },
-        {
             "id": "pMo2rleTOo4",
             "name": "Sara Ruth ~ Mike Smith  (1959)-pMo2rleTOo4.mp4",
             "path": "/home/alanmatzumiya/Videos/container/x/videos/Sara Ruth ~ Mike Smith  (1959)-pMo2rleTOo4.mp4",
@@ -184,25 +163,11 @@
             "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/te amo joan sebastian (letra)-5RR9sRMhuwE.mp4?raw=true"
         },
         {
-            "id": "tJXtSKNgRBQ",
-            "name": "Los Cadetes de Linares - Arturo Garza Trevino-tJXtSKNgRBQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/x/videos/Los Cadetes de Linares - Arturo Garza Trevino-tJXtSKNgRBQ.mp4",
-            "size": 4.735295,
-            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los Cadetes de Linares - Arturo Garza Trevino-tJXtSKNgRBQ.mp4?raw=true"
-        },
-        {
             "id": "f1hRD7I1tJE",
             "name": "Los Invasores de Nuevo León - Ya No He Llorado Por Ti ( Audio Oficial )-f1hRD7I1tJE.mp4",
             "path": "/home/alanmatzumiya/Videos/container/x/videos/Los Invasores de Nuevo León - Ya No He Llorado Por Ti ( Audio Oficial )-f1hRD7I1tJE.mp4",
             "size": 7.377591,
             "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los Invasores de Nuevo León - Ya No He Llorado Por Ti ( Audio Oficial )-f1hRD7I1tJE.mp4?raw=true"
-        },
-        {
-            "id": "yuTMWgOduFM",
-            "name": "Pulp - Common People (Official Video)-yuTMWgOduFM.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/x/videos/Pulp - Common People (Official Video)-yuTMWgOduFM.mp4",
-            "size": 19.441257999999998,
-            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Pulp - Common People (Official Video)-yuTMWgOduFM.mp4?raw=true"
         },
         {
             "id": "hx-XpRCGaFc",
@@ -217,13 +182,6 @@
             "path": "/home/alanmatzumiya/Videos/container/x/videos/Los muertos de cristo - Gástale una broma-TROb8U0_Njg.mp4",
             "size": 4.282372,
             "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los muertos de cristo - Gástale una broma-TROb8U0_Njg.mp4?raw=true"
-        },
-        {
-            "id": "1tndP407luk",
-            "name": "The Dead Weather - 'Will There Be Enough Water' - Live from The Roxy-1tndP407luk.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/x/videos/The Dead Weather - 'Will There Be Enough Water' - Live from The Roxy-1tndP407luk.mp4",
-            "size": 36.983142,
-            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/The Dead Weather - 'Will There Be Enough Water' - Live from The Roxy-1tndP407luk.mp4?raw=true"
         },
         {
             "id": "qBxny_naiC0",
@@ -252,13 +210,6 @@
             "path": "/home/alanmatzumiya/Videos/container/x/videos/LOS CADETES DE LINARES ARTURO GARZA TREVINO-tJXtSKNgRBQ.mp4",
             "size": 4.46647,
             "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/LOS CADETES DE LINARES ARTURO GARZA TREVINO-tJXtSKNgRBQ.mp4?raw=true"
-        },
-        {
-            "id": "aHAoZXyEfDo",
-            "name": "Los Cadetes de Linares - Sinceramente-aHAoZXyEfDo.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/x/videos/Los Cadetes de Linares - Sinceramente-aHAoZXyEfDo.mp4",
-            "size": 4.803604,
-            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los Cadetes de Linares - Sinceramente-aHAoZXyEfDo.mp4?raw=true"
         },
         {
             "id": "clJb4zx0o1o",
@@ -294,13 +245,6 @@
             "path": "/home/alanmatzumiya/Videos/container/x/videos/Conjunto Primavera Tal Vez-CRMHHEPG1yE.mp4",
             "size": 4.067842,
             "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Conjunto Primavera Tal Vez-CRMHHEPG1yE.mp4?raw=true"
-        },
-        {
-            "id": "I9lWfAemdNg",
-            "name": "The Transplants - 'DJ'-I9lWfAemdNg.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/x/videos/The Transplants - 'DJ'-I9lWfAemdNg.mp4",
-            "size": 20.876338999999998,
-            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/The Transplants - 'DJ'-I9lWfAemdNg.mp4?raw=true"
         },
         {
             "id": "rUuusqy50yk",
@@ -429,20 +373,6 @@
             "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/EUROPE - Cherokee (1987)-LMONTXnBYvk.mp4?raw=true"
         },
         {
-            "id": "XvTJs2RPMGQ",
-            "name": "Manu Chao - Por Donde Saldra El Sol (Live)-XvTJs2RPMGQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/x/videos/Manu Chao - Por Donde Saldra El Sol (Live)-XvTJs2RPMGQ.mp4",
-            "size": 6.574805,
-            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Manu Chao - Por Donde Saldra El Sol (Live)-XvTJs2RPMGQ.mp4?raw=true"
-        },
-        {
-            "id": "u59iFMeuMz8",
-            "name": "Los Cadetes de Linares - Una Pagina Mas-u59iFMeuMz8.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/x/videos/Los Cadetes de Linares - Una Pagina Mas-u59iFMeuMz8.mp4",
-            "size": 7.6644429999999995,
-            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Los Cadetes de Linares - Una Pagina Mas-u59iFMeuMz8.mp4?raw=true"
-        },
-        {
             "id": "mPGv8L3a_sY",
             "name": "The Great Gig In The Sky-mPGv8L3a_sY.mp4",
             "path": "/home/alanmatzumiya/Videos/container/x/videos/The Great Gig In The Sky-mPGv8L3a_sY.mp4",
@@ -541,6 +471,13 @@
             "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Siniestro Total. Hey Hey Vigo-FqDTitxYqVo.mp4?raw=true"
         },
         {
+            "id": "FIDTah3SvCU",
+            "name": "Dvořák - The Water Goblin [FIDTah3SvCU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x/videos/Dvořák - The Water Goblin [FIDTah3SvCU].mp4",
+            "size": 29.2361,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Dvořák - The Water Goblin [FIDTah3SvCU].mp4?raw=true"
+        },
+        {
             "id": "4U0JkhUc7BQ",
             "name": "Cleanin' House ~ Goldie Hill (1957) (Country & Western)-4U0JkhUc7BQ.mp4",
             "path": "/home/alanmatzumiya/Videos/container/x/videos/Cleanin' House ~ Goldie Hill (1957) (Country & Western)-4U0JkhUc7BQ.mp4",
@@ -567,13 +504,6 @@
             "path": "/home/alanmatzumiya/Videos/container/x/videos/David Bowie - 'We Are Hungry Men' - 1967-FuYSZqjmkz4.mp4",
             "size": 3.4938439999999997,
             "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/David Bowie - 'We Are Hungry Men' - 1967-FuYSZqjmkz4.mp4?raw=true"
-        },
-        {
-            "id": "3iPZdvDGJdg",
-            "name": "The Chemical Brothers - Wide Open ft Beck [8D AUDIO]-3iPZdvDGJdg.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/x/videos/The Chemical Brothers - Wide Open ft Beck [8D AUDIO]-3iPZdvDGJdg.mp4",
-            "size": 22.720046,
-            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/The Chemical Brothers - Wide Open ft Beck [8D AUDIO]-3iPZdvDGJdg.mp4?raw=true"
         },
         {
             "id": "KmXQHAr-db4",
@@ -637,13 +567,6 @@
             "path": "/home/alanmatzumiya/Videos/container/x/videos/Las Rejas No Matan-1h9T-ZsR60I.mp4",
             "size": 7.250258,
             "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Las Rejas No Matan-1h9T-ZsR60I.mp4?raw=true"
-        },
-        {
-            "id": "obCQyWfUQUg",
-            "name": "LOS CADETES DE LINARES   UN CORAZON AMARGADO-obCQyWfUQUg.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/x/videos/LOS CADETES DE LINARES   UN CORAZON AMARGADO-obCQyWfUQUg.mp4",
-            "size": 4.44419,
-            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/LOS CADETES DE LINARES   UN CORAZON AMARGADO-obCQyWfUQUg.mp4?raw=true"
         },
         {
             "id": "epCeMBDm3FU",
@@ -723,6 +646,13 @@
             "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Joan Sebastian   Recuerdame bonito-9qf5ISlrXEA.mp4?raw=true"
         },
         {
+            "id": "sdwdmqXnm-k",
+            "name": "La Cruz - Memorias [sdwdmqXnm-k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x/videos/La Cruz - Memorias [sdwdmqXnm-k].mp4",
+            "size": 5.057958,
+            "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/La Cruz - Memorias [sdwdmqXnm-k].mp4?raw=true"
+        },
+        {
             "id": "HJmJyqs3N4Y",
             "name": "Contento de Ser Así-HJmJyqs3N4Y.mp4",
             "path": "/home/alanmatzumiya/Videos/container/x/videos/Contento de Ser Así-HJmJyqs3N4Y.mp4",
@@ -730,5 +660,5 @@
             "url": "https://github.com/circuitalmynds/music_x/blob/main/videos/Contento de Ser Así-HJmJyqs3N4Y.mp4?raw=true"
         }
     ],
-    "total_size": 1114.0123470000003
+    "total_size": 949.6579009999999
 }
